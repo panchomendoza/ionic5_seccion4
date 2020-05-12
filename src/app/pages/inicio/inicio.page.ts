@@ -17,6 +17,26 @@ export class InicioPage implements OnInit {
       icon: 'logo-google-playstore',
       name: 'Alert',
       redirectTo: '/alert'
+    },
+    {
+      icon: 'image-outline',
+      name: 'Avatar',
+      redirectTo: '/avatar'
+    },
+    {
+      icon: 'radio-button-on-outline',
+      name: 'Botones',
+      redirectTo: '/botones'
+    },
+    {
+      icon: 'card-outline',
+      name: 'Card',
+      redirectTo: '/card'
+    },
+    {
+      icon: 'checkmark-circle-outline',
+      name: 'Check',
+      redirectTo: '/check'
     }
   ];
 
