@@ -28,3 +28,7 @@
 .rojo span, .rojo .action-sheet-icon.sc-ion-action-sheet-md {
     color: red !important;
 }
+
+ion-picker {
+    touch-action: none;
+}
