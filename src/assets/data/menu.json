@@ -93,5 +93,10 @@
     "icon": "search-outline",
     "name": "SearchBar",
     "redirectTo": "/searchbar"
+  },
+  {
+    "icon": "copy-outline",
+    "name": "Segment",
+    "redirectTo": "/segment"
   }
 ]
